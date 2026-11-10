@@ -23,7 +23,3 @@ Docker/CI setup that ships them.
 
 ### 🌱 Currently
 Learning AWS and building a Docker-based networking lab.
-
-### ✨ Background
-Before IT I worked in security and valuables transport, and served as a UN peacekeeper
-(UNIFIL, Lebanon). Reliability and staying calm under pressure carry over well to ops work.
